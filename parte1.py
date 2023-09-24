@@ -1,0 +1,5 @@
+import datetime
+
+ahora = datetime.datetime.now()
+
+print(f"{ahora.day} --- {ahora.month} --- {ahora.year}")
